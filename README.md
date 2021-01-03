@@ -39,7 +39,5 @@ Copyright 2020 Jaime Galán Martínez
    See the License for the specific language governing permissions and
    limitations under the License.
 
-[LoginUI]: https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/login_screen.png
-{: height="384" width="216"}
-[ResetPasswordUI]: https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/reset_password_screen.png
-{: height="384" width="216"}
+[LoginUI]: https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/login_screen.png {: height="384" width="216"}
+[ResetPasswordUI]: https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/reset_password_screen.png {: height="384" width="216"}
