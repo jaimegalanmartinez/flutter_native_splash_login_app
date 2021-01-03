@@ -2,8 +2,8 @@
 
 A new Flutter application with custom native splash view using a free Lottie Animation from Chris Gannon (https://lottiefiles.com/36388-spin-finity-loader). Also it provides login and reset password screens.
 
-![LoginUI][LoginUI]
-![ResetPasswordUI][ResetPasswordUI]
+<img src="https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/login_screen.png" width="216" height="384">
+<img src="https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/reset_password_screen.png" width="216" height="384">
 
 ## Getting Started
 
@@ -39,5 +39,3 @@ Copyright 2020 Jaime Galán Martínez
    See the License for the specific language governing permissions and
    limitations under the License.
 
-[LoginUI]: https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/login_screen.png {: height="384" width="216"}
-[ResetPasswordUI]: https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/reset_password_screen.png {: height="384" width="216"}
