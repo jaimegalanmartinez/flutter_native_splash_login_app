@@ -1,6 +1,6 @@
-# splash_login
+# Flutter Native Splash Login App
 
-A new Flutter application with custom native splash view using a free Lottie Animation from Chris Gannon (https://lottiefiles.com/36388-spin-finity-loader)
+A new Flutter application with custom native splash view using a free Lottie Animation from Chris Gannon (https://lottiefiles.com/36388-spin-finity-loader). Also it provides login and reset password screens.
 
 ## Getting Started
 
@@ -14,3 +14,24 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### To do
+
+ - Add Native Splash Screen for iOS devices
+
+
+License
+----
+Copyright 2020 Jaime Galán Martínez
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+
+   You may obtain a copy of the License at
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.

@@ -30,7 +30,8 @@
 .pub-cache/
 .pub/
 /build/
-
+# Images UI
+/screen_images/
 # Web related
 lib/generated_plugin_registrant.dart
 
