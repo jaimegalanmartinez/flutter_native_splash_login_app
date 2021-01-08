@@ -2,6 +2,7 @@
 
 A new Flutter application with custom native splash view using a free Lottie Animation from Chris Gannon (https://lottiefiles.com/36388-spin-finity-loader). Also it provides login and reset password screens.
 
+
 <p float="left">
 <img src="https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/login_screen.png" width="259.2" height="460.8">
 <img src="https://github.com/jaimegalanmartinez/flutter_native_splash_login_app/blob/main/screen_images/reset_password_screen.png" width="259.2" height="460.8">
@@ -20,10 +21,12 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### To do
+### Some considerations
 
- - Add Native Splash Screen for iOS devices
-
+ - Supported by android devices with minimum Android OS 4.1 version, targetting Android 10 devices. Also supported for iOS devices using iOS 12 or high.
+ 
+ - For iOS Launch Screen is recommended by Apple to follow these guidelines: https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/launch-screen/
+   Therefore an animation should not be necessary. In the iOS template provided you have a blank launch screen. After that it runs the application showing the Lottie Animation. Finally it runs our Flutter code showing the Login page.
 
 License
 ----
